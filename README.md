@@ -4,7 +4,7 @@ I am a bioinformatics researcher working on **multi-omics data analysis, machine
 
 ---
 
-## 🔬 Primary Academic Projects
+## Primary Academic Projects
 
 ### [ARGContextProfiler](https://github.com/NazifaMoumi/ARGContextProfiler)
 Assembly graph-based pipeline for extracting genomic context around antimicrobial resistance genes from metagenomic data.
@@ -14,7 +14,7 @@ Hazard scoring pipeline for antimicrobial resistance genes using genomic context
 
 ---
 
-## 🤝 Additional Academic Contributions
+## Additional Academic Contributions
 
 ### [ProtAlign-ARG](https://github.com/NazifaMoumi/ProtAlign-ARG)
 Hybrid ARG identification and classification pipeline combining protein language model predictions with alignment-based evidence.
@@ -24,7 +24,7 @@ Hybrid attention-based model for protein subcellular localization using sequence
 
 ---
 
-## 🧬 Professional Work
+## Professional Work
 
 I am currently working on developing the next version of established metagenomic pipelines as a Bioinformatics Engineer in the University of Maryland Institute of Advanced Computer Studies (UMIACS).
 
@@ -36,7 +36,7 @@ Metagenomic scaffolding tool for improving assemblies using graph-based informat
 
 ---
 
-## 📫 Links
+## Links
 
 - Personal GitHub: [NazifaMoumi](https://github.com/NazifaMoumi)
 - Workplace GitHub: [nmoumi](https://github.com/nmoumi)
