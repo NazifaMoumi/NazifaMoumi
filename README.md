@@ -1,4 +1,3 @@
-```md
 # Hi, I'm Moumi 👋
 
 I am a bioinformatics researcher working on **multi-omics data analysis, machine learning, and reproducible workflow engineering**.
@@ -41,4 +40,3 @@ Metagenomic scaffolding tool for improving assemblies using graph-based informat
 
 - Personal GitHub: [NazifaMoumi](https://github.com/NazifaMoumi)
 - Workplace GitHub: [nmoumi](https://github.com/nmoumi)
-```
